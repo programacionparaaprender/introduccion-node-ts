@@ -1,0 +1,26 @@
+{
+  "name": "introduccion-node-ts",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo node con typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programacionparaaprender/introduccion-node-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "nodejs",
+    "js"
+  ],
+  "author": "Luis Correa <alberto13711@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programacionparaaprender/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/programacionparaaprender/introduccion-node-ts#readme"
+}
